@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Lý do gỳ bạn thích mình dạ ',
     btnReply: 'Gửi cho bạn',
     reply: 'tại bạn dễ thương á',
-    mess: 'Dị hả mình biêt mà, mình cũng thích mình lớm',
+    mess: 'Dị hả mình biết mà, mình cũng thích mình lớm',
     messDesc: '',
     btnAccept: 'Hehe',
     messLink: 'https://www.facebook.com/shmiljm/'
